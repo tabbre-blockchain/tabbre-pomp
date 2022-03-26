@@ -8,3 +8,29 @@ This implementation is built using node.js, mongodb, mongoose and express.js. Th
 
 
 
+
+
+![](https://raw.githubusercontent.com/tabbre-blockchain/tabbre-pomp/main/documents/xferReqPart01%20Debit%20Sender%20Account%20i.jpg)
+
+
+
+
+
+![](https://raw.githubusercontent.com/tabbre-blockchain/tabbre-pomp/main/documents/xferReqPart02%20%20%20debit%20sender%20account%20ii%20.jpg)
+
+
+
+![](https://github.com/tabbre-blockchain/tabbre-pomp/raw/main/documents/xferReqPart03-accept-xferInstruction.jpg)
+
+
+
+
+
+![](https://raw.githubusercontent.com/tabbre-blockchain/tabbre-pomp/main/documents/xferReqPart04-accept-xferInstruction.jpg)
+
+
+
+
+
+
+
