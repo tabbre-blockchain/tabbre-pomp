@@ -34,3 +34,74 @@ This implementation is built using node.js, mongodb, mongoose and express.js. Th
 
 
 
+# **Proof of Majority Protocol - POMP**
+
+# **Witness Registry**
+
+## **Genesis Event**
+
+Witness Registry launched with a genesis file containing initial witness accounts and ip addresses
+
+## **API**
+
+### Register Witness
+
+Witness account id
+
+Commencement date:time
+
+Termination date:time
+
+Witness signatures
+
+### List Witnesses
+
+Date range - blank is current date
+
+### Renew Witness Lease
+
+Witness account id
+
+Commencement date:time
+
+Termination date:time
+
+Witness signatures
+
+
+
+### Cancel Witness
+
+Witness account id
+
+Termination date:time
+
+Witness signatures
+
+
+
+# **Witness Service**
+
+## **Genesis Event**
+
+Witness launched with a genesis file containing initial witness accounts and ip addresses initial accounts and balances
+
+## **API**
+
+
+
+### Register Account
+
+
+
+# **Wallet Service**
+
+
+
+The Wallet Service  has two components: the Wallet Key manager and the Wallet Transaction Manager.
+
+# Wallet **Key manager**
+
+UserAgent to KeyManager
+
+# **Wallet Transaction Manager**
